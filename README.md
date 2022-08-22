@@ -9,7 +9,7 @@
 ![img.png](imgs/img3.png)
 ![img.png](imgs/img4.png)
 ----------
-**准确率对比:**
+**准确率对比:**（进行了修改，提高了epoch以及略微降低稀疏度）
 
 ![](visual.png)
 
